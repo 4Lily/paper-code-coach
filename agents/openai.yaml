@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文代码训练教练"
+  short_description: "逐节读论文、对照官方代码，讲清张量和接口，练习独立实现与验收"
+  default_prompt: "用 $paper-code-coach 带我读这篇论文，把本轮关键公式对应到代码，并用一个能推广到函数实现的小例子讲清楚。"
